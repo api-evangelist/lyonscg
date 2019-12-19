@@ -1,0 +1,85 @@
+{
+    "name": "LYONSCG",
+    "description": "Six Questions to Ask before You Choose a New eCommerce Platform",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3673-lyonscg.jpg",
+    "tags": [
+        "agencies",
+        "api not found",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/lyonscg\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "LYONSCG",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3673-lyonscg.jpg",
+            "humanURL": "http:\/\/www.lyonscg.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lyonscg-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lyonscg-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/lyons-consulting-group"
+        },
+        {
+            "type": "Email",
+            "url": "chi@lyonscg.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacyshield@LYONSCG.com"
+        },
+        {
+            "type": "Email",
+            "url": "dallas@lyonscg.com"
+        },
+        {
+            "type": "Email",
+            "url": "a2@lyonscg.com"
+        },
+        {
+            "type": "Email",
+            "url": "la@lyonscg.com"
+        },
+        {
+            "type": "Email",
+            "url": "london@lyonscg.com"
+        },
+        {
+            "type": "Email",
+            "url": "rfd@lyonscg.com"
+        },
+        {
+            "type": "Email",
+            "url": "nyc@lyonscg.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/LYONSCG"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/lyonsconsulting"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.lyonscg.com"
+        }
+    ]
+}
